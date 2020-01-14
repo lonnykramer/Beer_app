@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Engine Results</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <nav class="navbar">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="../">Beer Recommendation Engine
+                        <img class="nav" src="../static/images/barrel.svg">
+                    </a>
+                    <button class="navbar-toggle navbar-toggler navbar-toggler-right" type="button"
+                        data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon icon-bar"></span>
+                        <img src="../static/images/navbutton.png" alt="navbutton" height="40">
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav">
+                          <li class="nav-item active">
+                            <a class="nav-link" href="../">Home <span class="sr-only">(current)</span></a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="../engine.html">How the Engine Works</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="../brewing.html">Parameters Explained</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </nav>
+        <div class="hero text-center">
+            <h1>What to drink next?</h1>
+            <p>The Best is Out There</p>
+        </div>
+        <br>
+        <div class="container">
+            <div class="row margin-top-50">
+                <div class="col-md-12">
+                    <h2>What is Machine Learning?</h2>
+                    <p>Machine learning as an application of artificial intelligence (AI), allows computers to create
+                        patterns out of data; it can then perform tasks with new information using the patterns it has
+                        already created instead of explicit instructions.</p>
+                    <br>
+                </div>
+                <div class="col-md-12">
+                    <h2>Supervised Learning Model</h2>
+                    <p>In this case, the engine uses supervised learning. This means that the algorithm uses example
+                        data to build classes so that it can later predict the correct class when a new example is
+                        introduced.
+                        The example data was obtained from a publicly availble database of microbrew information.
+                        The data was divided with 75% used to train the model and 25% to test the model.
+
+                    </p>
+                    <br>
+                </div>
+                <div class="col-md-12">
+                    <h2>Decision Tree Model</h2>
+                    <p>The model took into account the following parameters: abv, ibu, attenuation level, and srm
+                        (color).
+                        The model is built as a decision tree in which the input will be evaluated against the
+                        categories created for the four parameters and ultimately lead to a final result or prediction
+                        of the best beers.
+                    </p>
+                    <img class=decisiontree src="../static/images/decision_tree.png" onclick="window.open('../static/images/decision_tree.png', '_blank')" onmouseover="" style="cursor: pointer" alt="decisiontree" />
+                    <br>
+                </div>
+                <div class="col-md-12">
+                    <div class="row margin-top-50"></div>
+                    <h2>Evaluate Model</h2>
+                    <p>The accuracy of this model is: 91%
+                    </p>
+                    <br>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <footer class="footer">
+            <span class="bottom">Drink Responsibly <br> Must be 21 Years of Age</span>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="../static/js/results.js"></script>
+    <script src="../static/js/app.js"></script>
+
+</body>
+
+</html>

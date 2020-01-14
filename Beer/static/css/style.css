@@ -1,0 +1,307 @@
+* {
+  box-sizing: border-box;
+  font-family: Ubuntu, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.beerquotes {
+  /* height:100px; */
+  width:100%;
+  
+}
+
+/* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
+.wrapper {
+  position: relative;
+  min-height: 100%;
+  padding-bottom: 130px;
+  overflow: auto;
+}
+
+ #contentbox{
+  position: absolute;
+  top:700px;
+  right:-200px;
+  /* width: 1200px;
+  height: 300px;
+  top:8000;
+  margin: 0 px; */
+  
+  font-family: sans-serif
+}
+
+
+#contentbox .box {
+  position: relative;
+  width: calc(400px - 30px);
+  height: calc(300px - 30px);
+  float: left;
+  background:#9ACD32;
+  margin: 5px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius:10px;
+
+}
+
+#contentbox .box .icon{
+  position: absolute;
+  width: calc(400px - 30px);
+  height: calc(300px - 30px);
+  width: 100%;
+  height: 100%;
+  /* transition:0.2s; */
+  z-index:1;
+  background:#2F4F4F;
+
+}
+
+#contentbox .box:hover .icon{
+  top: 20px;
+  right: calc(50% - 40px);
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; 
+}
+
+#contentbox .box .icon .fa{
+  position: absolute;
+  /* top:50%;
+  left:50%; */
+  transform: translate(150%,100%);
+  font-size:80px;
+  /* transition:0.2s; */
+  color:white;
+}
+
+#contentbox .box:hover .icon .fa {
+  font-size: 40px;
+  color:black;
+}
+
+.content {
+  position: absolute;
+  top:100px;
+  height: calc(100%-100px);
+  padding: 20px;
+  box-sizing: border-box;
+  /* transition:0.2s; */
+}
+
+.box:hover .content {
+  position: relativeS;
+  height: calc(100%-100px);
+  padding: 0px;
+  /* transition:0.2s; */
+  color:black;
+}
+
+/* The footer is positioned at the bottom of the page */
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 100px;
+  background: #4e5d6c;
+  color: white;
+}
+
+/* The code styles the text at the bottom of the footer */
+.footer > .bottom {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 5px;
+  background: #1b3146;
+}
+
+.navbar {
+  padding: 5px;
+  margin: 0;
+  color: #F5F5F5;
+  background: #4e5d6c;
+}
+
+/* This CSS styles icon in the navbar */
+
+.nav {
+  position: absolute;
+  bottom: 0px;
+  left: 310px;
+  width: 35px;
+  color: white;
+}
+
+.navbar-brand {
+  color:white;
+}
+
+.navbar-toggle.navbar-toggler.navbar-toggler-right{
+  background-color: transparent;
+  position: absolute;
+  right: 0%
+}
+
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+
+.choicetext{
+  font-size: 20px;
+}
+
+#search {
+  width: 10em; 
+  height: 2em;
+  font-size: 25px;
+}
+
+.decisiontree {
+  width:1200px;
+  height:200px;
+}
+
+/* .decisiontree:hover {
+  transform:scale(4.5);
+} */
+
+.center {
+  text-align:center;
+}
+
+/* Adding styles to the aside and filter form */
+.ufo-form {
+  margin-top: 50px;
+}
+
+.filters .panel-body {
+  padding: 0;
+}
+
+
+.filters {
+  margin-top: 10px;
+}
+
+select {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  color: #F5F5F5;
+  outline: none;
+}
+
+#table-area th {
+  text-align: center;
+}
+
+#table-area th:first-child,
+#table-area th:nth-child(2),
+#table-area th:nth-child(6) {
+  min-width: 70px;
+}
+
+.loader {
+  margin-top: 50px;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
+  margin-left:0px;
+}
+
+/* The styles for the parallax */
+.hero {
+  position: relative;
+  height: 550px;
+  padding: 20px;
+  width:100%;
+  margin: 0;
+  background: black;
+  background-image: url("../images/pouring.jpeg");
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size: cover;
+  color: tomato;
+}
+
+.hero h1 {
+  margin-top: 200px;
+  font-size: 0.1rem;
+  animation: title 1.2s forwards linear;
+}
+
+.hero p {
+  font-size: 2rem;
+  font-weight: bold;
+  opacity: 0;
+  animation: subtitle 1.2s forwards linear;
+  animation-delay: 1.2s;
+}
+
+.nav-link {
+  color: white;
+}
+
+
+/* input placeholder color changes */
+.form-control::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: #8e979f;
+}
+
+.form-control::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #8e979f;
+}
+
+.form-control:-ms-input-placeholder {
+  /* IE 10+ */
+  color: #8e979f;
+}
+
+.form-control:-moz-placeholder {
+  /* Firefox 18- */
+  color: #8e979f;
+}
+
+/* keyframe animations which will be used to animate the title */
+@keyframes title {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    font-size: 7.5rem;
+    opacity: 1;
+  }
+}
+
+@keyframes smaller-title {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    font-size: 5.5rem;
+    opacity: 1;
+  }
+}
+
+@keyframes subtitle {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

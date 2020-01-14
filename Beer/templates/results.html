@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Beer Results</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="wrapper">
+    <nav class="navbar">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="../">Beer Recommendation Engine
+            <img class="nav" src="../static/images/barrel.svg">
+          </a>
+          <button class="navbar-toggle navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+            data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon icon-bar"></span>
+            <img src="../static/images/navbutton.png" alt="navbutton" height="40">
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item active">
+                <a class="nav-link" href="../">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../engine.html">How the Engine Works</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../brewing.html">Parameters Explained</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="hero text-center">
+      <h1>What to drink next?</h1>
+      <p>The Best is Out There</p>
+    </div>
+    <br>
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-12">
+          <h1>Machine Learning suggests you try these beers:</h1>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="container">
+      <div class="row margin-top-50">
+        <h2>Results </h2>
+      </div>
+      <div class="row">
+        <div class="choicetext">
+          <table id="beers" class="table">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>IBU</th>
+                <th>Color</th>
+                <th>ABV</th>
+                <th>Attenuation Level</th>
+                <th>Tagline</th>
+                <th>Food Pairings</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class=container>
+      <div class=row>
+        <div class=col-4>
+          <img src="../static/images/beer1.jpg" alt="beerquote1" class="beerquotes">
+        </div>
+        <div class=col-4>
+          <img src="../static/images/beer2.png" alt="beerquote2" class="beerquotes">
+        </div>
+        <div class=col-4>
+          <img src="../static/images/beer3.jpg" alt="beerquote3" height="94%">
+        </div>
+      </div>
+    </div>
+
+
+    </form>
+
+
+    <footer class="footer">
+      <span class="bottom">Drink Responsibly <br> Must be 21 Years of Age</span>
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="../static/js/data.js"></script>
+  <script src="../static/js/results.js"></script>
+  <script>
+
+    var id = "{{ id }}";
+    domyfunction(id)
+
+  </script>
+
+  </div>
+</body>
+
+</html>
