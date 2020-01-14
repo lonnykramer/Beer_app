@@ -1,0 +1,326 @@
+id,name,ibu,srm_category,abv,attenuation_level,tagline,food_pairing,outcome
+1,Buzz,60.0,Medium Amber,4.5,75.0,A Real Bitter Experience.,"Spicy chicken tikka masala,Grilled chicken quesadilla,Caramel toffee cake",IBU High Medium Amber ABV Low Atten Medium
+2,Trashy Blonde,41.5,Deep Amber,4.1,76.0,You Know You Shouldn't,"Fresh crab with lemon,Garlic butter dipping sauce,Goats cheese salad,Creamy lemon bar doused in powdered sugar",IBU High Deep Amber ABV Low Atten Medium
+3,Berliner Weisse With Yuzu - B-Sides,8.0,Pale Gold,4.2,83.0,Japanese Citrus Berliner Weisse.,"Smoked chicken wings,Miso ramen,Yuzu cheesecake",IBU Low Pale Gold ABV Low Atten High
+4,Pilsen Lager,55.0,Deep Amber,6.3,80.0,Unleash the Yeast Series.,"Spicy crab cakes,Spicy cucumber and carrot Thai salad,Sweet filled dumplings",IBU High Deep Amber ABV Low Atten Medium
+5,Avery Brown Dredge,59.0,Pale Gold,7.2,67.0,Bloggers' Imperial Pilsner.,"Vietnamese squid salad,Chargrilled corn on the cob with paprika butter,Strawberry and rhubarb pie",IBU High Pale Gold ABV Low Atten Low
+6,Electric India,38.0,Deep Gold,5.2,88.9,Vibrant Hoppy Saison.,"Mussels with a garlic and herb sauce,Crab melt sandwich,Shortbread cookies",IBU Medium Deep Gold ABV Low Atten High
+7,AB:12,35.0,Black,11.2,84.0,Imperial Black Belgian Ale.,"Tandoori lamb with pomegranate,Beef Wellington with a red wine jus,Raspberry chocolate torte",IBU Medium Black ABV Medium Atten High
+8,Fake Lager,40.0,Deep Gold,4.7,78.0,Bohemian Pilsner.,"Fried crab cakes with avocado salsa,Spicy shredded pork roll with hot dipping sauce,Key lime pie",IBU High Deep Gold ABV Low Atten Medium
+9,AB:07,30.0,Black,12.5,83.0,Whisky Cask-Aged Scotch Ale.,"Kedgeree,Scotch broth with sourdough bread,Clootie dumpling",IBU Medium Black ABV Medium Atten High
+10,Bramling X,75.0,Medium Amber,7.5,80.9,Single Hop IPA Series - 2011.,"Warm blackberry pie,Vinegar doused fish and chips,Aromatic korma curry with lemon and garlic naan",IBU High Medium Amber ABV Low Atten Medium
+11,Misspent Youth,30.0,Black,7.3,74.7,Milk & Honey Scotch Ale.,"Roasted garlic and chilli infused camembert cheese,Korean style chicken wings,Chocolate milk shake",IBU Medium Black ABV Low Atten Medium
+12,Arcade Nation,60.0,Black,5.3,77.0,Seasonal Black IPA.,"King prawn kebabs,Halibut with a mango and tomato salad,Mint chocloate ice cream",IBU High Black ABV Low Atten Medium
+13,Movember,50.0,Black,4.5,74.5,Moustache-Worthy Beer.,"Vegetable egg scramble,Margherita pizza,Fresh berry crisp tart",IBU High Black ABV Low Atten Medium
+14,Alpha Dog,42.0,Ruby Brown,4.5,72.8,Existential Red Ale.,"Pastrami,Swiss and horseradish sandwich,Sharp cheddar cheese and onion/ raisin chutney,Peanut brittle",IBU High Ruby Brown ABV Low Atten Medium
+15,Mixtape 8,50.0,Brown,14.5,85.0,"An Epic Fusion Of Old Belgian, American New Wave, And Scotch Whisky.","Coriander & chilli crab cakes,Goats cheese salad with walnuts, radish and blood orange,Pistachio cake",IBU High Brown ABV Medium Atten High
+16,Libertine Porter,45.0,Black,6.1,70.1,Dry-Hopped Aggressive Porter.,"Blue cheese beef burger,Glazed short ribs,Chocolate cake",IBU High Black ABV Low Atten Medium
+17,AB:06,150.0,Deep Brown,11.2,87.0,Imperial Black IPA.,"Coffee dusted venison loin,Memphis-style beef short ribs,Chocolate orange brownies",IBU High Deep Brown ABV Medium Atten High
+18,Russian Doll â€“ India Pale Ale,70.0,Medium Amber,6.0,79.3,Nesting Hop Bomb.,"Spicy chicken skewers,Fish tacos with hot sauce,Lemon pound cake with a ice sugar glaze",IBU High Medium Amber ABV Low Atten Medium
+19,Hello My Name Is Mette-Marit,70.0,Ruby Brown,8.2,83.0,Lingonberry Double IPA.,"Fårikål (mutton stew) with a spicy twist,Fenalår (salted cured lamb),Krumkake with lingonberry jam",IBU High Ruby Brown ABV Low Atten High
+20,Rabiator,26.0,Medium Amber,10.27,85.0,Imperial Wheat Beer,"Grilled portabello mushroom burger,Chicken sausages with creamy mash,Caramel and banana meringue pie",IBU Medium Medium Amber ABV Medium Atten High
+21,Vice Bier,25.0,Deep Amber,4.3,81.8,Hoppy Wheat Bier.,"Citrus salad with balsamic dressing,Lobster,Ginger and orange cookies",IBU Medium Deep Amber ABV Low Atten Medium
+22,Devine Rebel (w/ Mikkeller),100.0,Amber Brown,12.5,68.0,Oak-aged Barley Wine.,"Stilton on gingerbread biscuits,Pot roasted artichokes,Lamb chops with caramelised figs",IBU High Amber Brown ABV Medium Atten Low
+23,Storm,60.0,Deep Gold,8.0,86.0,Islay Whisky Aged IPA.,"Oysters,Hickory smoked ham,Rocky Road",IBU High Deep Gold ABV Low Atten High
+24,The End Of History,65.24375,Ruby Brown,55.0,100.0,The World's Strongest Beer.,"Roasted wood pigeon with black pudding,Pan seared venison fillet with juniper sauce,Apricot coconut cake",IBU High Ruby Brown ABV High Atten High
+25,Bad Pixie,45.0,Pale Gold,4.7,79.0,Spiced Wheat Beer.,"Poached sole fillet with capers,Summer fruit salad,Banana split",IBU High Pale Gold ABV Low Atten Medium
+26,Skull Candy,33.0,Ruby Brown,3.5,68.4,Pacific Hopped Amber Bitter.,"Haggis bon bons,Rosemary and lemon roast chicken,Oatmeal and cranberry cookies",IBU Medium Ruby Brown ABV Low Atten Low
+27,Dog B,90.0,Black,15.0,98.0,"Cacao, Coffee Chili Anniversary Stout.","Blackened cajun beef,Blue cheese,Flourless chocolate cheesecake",IBU High Black ABV Medium Atten High
+28,HBC 369,67.0,Pale Amber,6.7,79.7,Single Hop India Pale Ale â€“ 2012.,"Spicy jalapeño & seared steak fajitas,Grilled spicy corn with feta crumbles,Blueberry pie",IBU High Pale Amber ABV Low Atten Medium
+29,10 Heads High,70.0,Black,7.8,79.7,Imperial Red Ale.,"Arrabiata pasta,Mulled cheddar,Toasted almond cake",IBU High Black ABV Low Atten Medium
+30,Dana - IPA Is Dead,70.0,Deep Amber,6.7,77.3,Single Hop India Pale Ale.,"Spicy Asian-style noodles,Smokey chipotle beef brisket tostada,Sweet potato pie",IBU High Deep Amber ABV Low Atten Medium
+31,Nanny State,55.0,Deep Amber,0.5,28.6,Alcohol Free Hoppy Ale.,Earthy mushroom pasta,IBU High Deep Amber ABV Low Atten Low
+32,AB:05,40.0,Black,12.5,76.0,Belgian Imperial Stout.,"Venison with cacao nibs,Apple upside-down cake,Toffee marshmallow pie",IBU High Black ABV Medium Atten Medium
+33,Sorachi Ace,75.0,Deep Amber,7.5,82.1,Single Hop IPA Series - 2011.,"Sashimi,Grilled salmon with a herb and citrus infused butter,Basil, lemon and pine nut angel hair pasta with grilled chicken",IBU High Deep Amber ABV Low Atten High
+34,Bourbon Baby,35.0,Brown,5.8,90.0,Barrel-Aged Scotch Ale.,"Blackened cajun beef,Pulled pork,Millionaire's shortbread",IBU Medium Brown ABV Low Atten High
+35,Berliner Weisse With Raspberries And Rhubarb - B-Sides,8.0,Ruby Brown,3.6,83.0,Fruity Berliner Weisse.,"Grilled salmon,Mac and cheese fries,Cheesecake with raspberry coulis",IBU Low Ruby Brown ABV Low Atten High
+36,Shipwrecker Circus (w/ Oskar Blues),85.0,Ruby Brown,10.5,102.0,American Barley Wine - Oskar Blues Collab.,"Stilton,Pan seared steak,Dark Chocolate Fondant",IBU High Ruby Brown ABV Medium Atten High
+37,Zephyr,125.0,Brown,12.5,81.2,Thereâ€™s A Storm Brewing.,"Poached eggs and smoked salmon,Salt and pepper squid,Key Lime Pie",IBU High Brown ABV Medium Atten Medium
+38,Belgian Trappist,55.0,Deep Amber,6.3,80.0,Unleash the Yeast Series.,"Roast beef with spicy jus,Ginger bread cookies,Orange tart",IBU High Deep Amber ABV Low Atten Medium
+39,Kohatu - IPA Is Dead,70.0,Deep Amber,7.2,82.1,Single Hop India Pale Ale.,"Tuna sushi roll with spicy mayonnaise sauce,Thai green curry,Pineapple upside down cake",IBU High Deep Amber ABV Low Atten High
+40,Hello My Name is Vladimir,70.0,Pale Amber,8.2,83.0,Limonnik Infused Imperial IPA (Not for Gays).,"Russian mini pork pies,Beef Stroganoff,Chocolate and fruit cake",IBU High Pale Amber ABV Low Atten High
+41,AB:17,100.0,Black,10.7,76.2,Three Coffee Rye Imperial Porter.,"12hr smoked brisket,Chocolate pistachio cakes,Dulche de leche",IBU High Black ABV Medium Atten Medium
+42,Hardcore IPA,125.0,Brown,9.2,81.2,Explicit Imperial Ale. Citrusy. Resinous. Intense.,"Spicy wings with blue cheese dip,Pan seared scallops with a chilli sauce,Creamy chocolate and caramel cheesecake",IBU High Brown ABV Medium Atten Medium
+43,American Wheat,17.0,Pale Gold,4.5,72.0,Hoppy American Wheat.,"Strawberry and citrus salad,Fish corn tacos with pomegranate salsa,Summer berry fruit parfait",IBU Low Pale Gold ABV Low Atten Medium
+44,Dog Wired (w/8 Wired),65.0,Deep Gold,7.1,85.0,New Zealand Imperial Pilsner.,"Spiced and blackened cajun chicken,Pork belly vindaloo,Rhubarb pie",IBU High Deep Gold ABV Low Atten High
+45,The Physics,47.0,Ruby Brown,5.0,79.4,Laid Back Amber Beer.,"Barbecue pulled pork on sourdough bread,Roast turkey with a honey and herb marinade and roasted vegetables,Banana walnut loaf with chocolate chips",IBU High Ruby Brown ABV Low Atten Medium
+46,Anarchist Alchemist,20.5,Medium Amber,16.5,100.0,Triple Hopped Triple Ipa.,"Blue cheese & onion tart,Goan goat curry,Sugar-poached kumquat rice pudding",IBU Low Medium Amber ABV High Atten High
+47,AB:15,50.0,Black,12.8,79.17,Salted Caramel Popcorn Strong Ale.,"Crispy bacon on flat bread,Glazed ham with crackling coating,Popcorn caramel and chocolate cake",IBU High Black ABV Medium Atten Medium
+48,Goldings - IPA Is Dead,70.0,Deep Amber,6.7,77.3,Single Hop India Pale Ale.,"Rosemary and thyme marinated venison,Fish and chips,Lavender chocolate chip cookies",IBU High Deep Amber ABV Low Atten Medium
+49,AB:14,30.0,Medium Amber,10.0,83.0,Oak-Aged Imperial Weizenbock.,"Sweet pork Chinese dumplings,Caramelised onion venison burger,Banoffee pie",IBU Medium Medium Amber ABV Medium Atten High
+50,Lost Dog (w/Lost Abbey),35.0,Black,10.0,85.0,Rum-Aged Imperial Porter - Lost Abbey Collab.,"Beef satay skewers,Venison & cranberry pie,Blackberry mocha gateaux",IBU Medium Black ABV Medium Atten High
+51,TM10,20.0,Deep Gold,5.5,89.6,Liquid Art.,"Tom yum soup,Andhra chicken pickle curry,Butterscotch tart",IBU Low Deep Gold ABV Low Atten High
+52,Paradox Islay,55.0,Black,10.0,84.4,Ubiquitous Imperial Stout.,"Ancho chilli beef taco,Chocolate gateaux,Rum poached pears with dark chocolate sauce",IBU High Black ABV Medium Atten High
+53,Baby Dogma,35.0,Brown,4.5,72.9,Session Scotch Ale.,"French onion soup,Braised pheasant,Caramel sauce and hot fudge",IBU Medium Brown ABV Low Atten Medium
+54,Albino Squid Assasin,65.0,Ruby Brown,7.4,82.6,Red Rye IPA,"Rocket and mozzarella salad with a cracked pepper dressing,Fried halibut with sweet potato fritters,Grapefruit and blood orange tart",IBU High Ruby Brown ABV Low Atten High
+55,Amarillo - IPA Is Dead,70.0,Deep Amber,7.2,82.1,Single Hop India Pale Ale.,"Bratwurst sausage with spicy mustard,Fried American bacon with chilli flakes added to the top,Dark chocolate chip cookies",IBU High Deep Amber ABV Low Atten High
+56,Black Eyed King Imp,85.0,Black,9.5,76.8,Barrel-Aged Prototype Cocoa Psycho.,"Beef chilli made with cocoa powder,Dark chocolate covered bacon,Rich espresso tiramisu",IBU High Black ABV Medium Atten Medium
+57,Prototype 27,149.0,Pale Amber,9.2,83.0,Vibrant Smoky Pink IPA.,"Strong blue cheese,Cranachan,Chicago style hot links",IBU High Pale Amber ABV Medium Atten High
+58,Coffee Imperial Stout,65.0,Black,9.0,76.0,Beats a Cup of Joe.,"Gooey chocolate brownies,Chicken fried steak with cheesy mash,Spicy chicken empanadas",IBU High Black ABV Medium Atten Medium
+59,Mandarina Bavaria - IPA Is Dead,100.0,Deep Gold,7.2,84.0,Single Hop India Pale Ale.,"Lavender and thyme roast beef,Spicy kung po chicken,Caramel and rose essence cheesecake",IBU High Deep Gold ABV Low Atten High
+60,Dogma,30.0,Brown,7.5,70.0,Revamped Wee Heavy. Luscious. Malty. Fruity.,"Mature cheddar with red onion chutney,Honey glazed ham,Chocolate caramel drizzled sponge cake",IBU Medium Brown ABV Low Atten Medium
+61,Magic Stone Dog (w/Magic Rock & Stone Brewing Co.),30.0,Deep Gold,4.6,81.4,Session Farmhouse IPA - Stone / Magic Rock Collab.,"Halibut with caper brown butter,Creamy gorgonzola and satsuma salad,Spicy Daal with garlic naan bread",IBU Medium Deep Gold ABV Low Atten Medium
+62,AB:08,65.0,Medium Amber,10.43,83.2,Deconstructed Blonde Imperial Stout.,"Caramelised scallops with burnt apple puree,Blackened Cajun chicken,Blondies with chocolate fudge sauce",IBU High Medium Amber ABV Medium Atten High
+63,Sunk Punk,68.0,Deep Gold,7.1,82.1,Ocean Fermented Lager.,"Salt baked cod with lemon and dill butter,Beef, oyster and ale pie,Apple and rosemary tart",IBU High Deep Gold ABV Low Atten High
+64,Sub Hop,35.0,Deep Gold,8.0,79.2,Hopped-Up Imperial Pilsner.,"Seared lemon and herb salmon,Crab linguine,Almond biscotti",IBU Medium Deep Gold ABV Low Atten Medium
+65,Bracken's Porter,50.0,Black,5.0,79.0,A Tribute To Our Favourite 4 Pawed Friend.,"Grilled vegetable and chicken teriyaki skewers,Chilli covered burger (Sloppy Joe),Candied bacon topped chocolate cheesecake",IBU High Black ABV Low Atten Medium
+66,Tokyo Rising Sun - Lowland,85.0,Black,13.2,82.17,A Beautiful Accident.,"Duck liver paté,Mutton stew,Kirsch chocolate truffles",IBU High Black ABV Medium Atten High
+67,Hunter Foundation Pale Ale,35.0,Pale Gold,5.4,84.0,American Pale Ale.,"Monterey Jack stuffed grilled jalepenos,Barbecue corn and steak fajita seasoned wrap,Cinnamon & white chocolate churro",IBU Medium Pale Gold ABV Low Atten High
+68,Hype,65.0,Pale Amber,4.1,76.2,New Zealand Pale Ale.,"Quince cheese,Shredded chicken and mango salsa taquitos,Poached pear",IBU High Pale Amber ABV Low Atten Medium
+69,AB:16,55.0,Deep Amber,10.6,86.7,Coffee-Infused Belgian Quad.,"Roasted duck,Gorgonzola and rye nut bread with smoked honey ham,Raspberry coffee cheesecake",IBU High Deep Amber ABV Medium Atten High
+70,Sunmaid Stout,50.0,Black,10.2,74.5,Rum & Raisin Imperial Stout.,"Lapin aux pruneaux (braised rabbit with prunes),Gouda cheese,Dark chocolate truffles",IBU High Black ABV Medium Atten Medium
+71,Pale - Russian Doll,35.0,Brown,4.0,75.6,Nesting Hop Bomb.,"Roast chicken with vegetables and wild rice,Fresh pico de gallo with corn tortilla,Carrot cake",IBU Medium Brown ABV Low Atten Medium
+72,Whisky Sour - B-Sides,20.0,Deep Gold,7.0,74.0,Pilot Brew - Deconstructed Whisky Sour.,"Potted fresh & smoked salmon,Spiced nut loaf,Lemon poppyseed donuts",IBU Low Deep Gold ABV Low Atten Medium
+73,Black Eyed King Imp - Vietnamese Coffee Edition,85.0,Black,12.7,76.8,Vietnamese Coffee Edition.,"Bacon sandwich with brown sauce,20hr smoked brisket,Chocolate fudge ice cream",IBU High Black ABV Medium Atten Medium
+74,Eurotrash,52.0,Pale Amber,4.1,76.0,Belgian Blonde.,"Grilled fish salad,Angelfood cake,Pad Thai",IBU High Pale Amber ABV Low Atten Medium
+75,Never Mind The Anabolics,35.0,Medium Amber,6.5,76.0,Performance-Enhancing India Pale Ale.,"Grilled chicken salad with bacon and avocado,Red pepper houmous and flat bread,Matcha green tea cake",IBU Medium Medium Amber ABV Low Atten Medium
+76,#Mashtag 2013,50.0,Brown,7.5,81.4,Democratic American Brown Ale.,"Roast beef,Roasted butternut squash,Hazelnut brittle",IBU High Brown ABV Low Atten Medium
+77,Hobo Pop,50.0,Deep Amber,4.2,76.2,2013 Prototype Rye Pale Ale.,"Mozzarella and tomato baked chicken,Spiced shrimp salad,Strawberry cheescake",IBU High Deep Amber ABV Low Atten Medium
+78,AB:18,80.0,Black,11.8,79.2,Imperial Brown Ale Aged In Rum Casks.,"Kippers and poached eggs,Slow cooked lamb shoulder with mint sauce,Apple and blackcurrant cobbler",IBU High Black ABV Medium Atten Medium
+79,Hops Kill Nazis,70.0,Ruby Brown,7.6,79.5,Imperial Red Ale.,"Candied almond and blue cheese rocket salad,Chicken Tikka Madras,Pecan pie",IBU High Ruby Brown ABV Low Atten Medium
+80,AB:04,80.0,Black,15.0,84.1,"Imperial Stout With Coffee, Loads Of Cocoa And Chilli.","Beef mahaca on corn tortillas,Chilli and dark chocolate tart,Epoisses cheese",IBU High Black ABV Medium Atten High
+81,India Session Lager - Prototype Challenge,35.0,Deep Gold,4.4,79.5,Refreshing Hop Fix.,"Tomato and rosemary palmiers,Bratwurst with sauerkraut,Lemon drizzle cake",IBU Medium Deep Gold ABV Low Atten Medium
+82,Hopped-Up Brown Ale - Prototype Challenge,85.0,Medium Amber,6.3,82.6,Malt Hop Balance.,"Butternut squash and sage soup,Roast beef and horseradish sandwich,Fudge",IBU High Medium Amber ABV Low Atten High
+83,Comet,70.0,Deep Amber,7.2,82.1,Single Hop India Pale Ale,"Margherita pizza with chili flakes,Spicy Thai peanut satay,Panna cotta with a grapefruit tuile",IBU High Deep Amber ABV Low Atten High
+84,Baby Saison - B-Sides,9.0,Pale Straw,3.6,88.0,Trial Baby Saison.,"Pork chop with rosemary chips,Steak tartare,Belgian waffles",IBU Low Pale Straw ABV Low Atten High
+85,Santa Paws,35.0,Brown,4.5,72.9,Christmas Scoth Ale.,"French onion soup,Braised pheasant,Caramel sauce and hot fudge",IBU Medium Brown ABV Low Atten Medium
+86,Original Dogma (NeÌ�e Speedball),60.0,Deep Amber,7.8,83.2,Strong Ale With Honey And Spices.,"Spicy seafood stew,French onion soup,Mexican wedding cake (cookies)",IBU High Deep Amber ABV Low Atten High
+87,Alpha Pop,30.0,Medium Amber,4.5,75.6,Hoppy Rye Pale Ale.,"Spicy lamb tikka masala,Spicy beef and Mexican black bean burger,Poached cinnamon apple muffins",IBU Medium Medium Amber ABV Low Atten Medium
+88,Bavarian Weizen,55.0,Deep Amber,6.3,80.0,Unleash the Yeast Series.,"Spicy paella,German bratwurst with spicy mustard dip and vinaigrette salad,Creamy eggs benedict",IBU High Deep Amber ABV Low Atten Medium
+89,Citra,70.0,Deep Amber,7.5,82.1,Single Hop IPA Series â€“ 2011.,"Lemon and herb salmon,Sharp cheddar with mango chutney,Shredded chicken tacos with pico de gallo",IBU High Deep Amber ABV Low Atten High
+90,#Mashtag 2015,85.0,Black,10.0,79.6,US Hopped Black Barley Wine.,"Charcuterie platter (featuring Italian salami),Blue cheese wedge salad,Rich dark chocolate volcano cake",IBU High Black ABV Medium Atten Medium
+91,Dead Pony Club,35.0,Medium Amber,3.8,70.0,West Coast Kicks. Citrusy. Zesty. Bright.,"Baja style fish tacos,Jerk chicken,Apple crumble",IBU Medium Medium Amber ABV Low Atten Medium
+92,AB:09,77.0,Black,11.6,80.0,Cranachan Imperial Stout.,"Aged cheddar with honey and raspberry chutney,Rich beef stew with winter vegetables and a dash of honey,Scottish raspberry cranachan parfait",IBU High Black ABV Medium Atten Medium
+93,Mango Gose - B-Sides,40.0,Pale Gold,6.4,87.0,Hoppy Mango Gose.,"Okra fries,Sea bass ceviche,Sea salt fudge",IBU High Pale Gold ABV Low Atten High
+94,Everday Anarchy,45.0,Deep Gold,10.5,93.8,White Wine Barrel-Aged Imperial Red Saison.,"Spiced carrot and coriander soup,Spicy chilli king prawns,Orange zest tart",IBU High Deep Gold ABV Medium Atten High
+95,Peroxide Punk,40.0,Pale Amber,4.0,76.9,Zesty Pale Ale.,"Sashimi,Pan roasted poussin with spring veg,Lemon and thyme panna cotta",IBU High Pale Amber ABV Low Atten Medium
+96,Lumberjack Stout,20.0,Black,15.2,82.0,Blueberry Bacon Stout.,"Maple syrup drizzled chocolate chip pancakes,Fried bacon with crispy honeycomb bits,Coffee cake",IBU Low Black ABV Medium Atten High
+97,Bowman's Beard - B-Sides,50.0,Pale Amber,18.3,84.0,English Barley Wine.,"Celery and stilton soup,Salted caramel soufflé",IBU High Pale Amber ABV High Atten High
+98,Pumpkin King,20.0,Deep Amber,5.4,74.6,Spicy Citrus Pumpkin Ale.,"Creamy maple syrup and bacon soup,Chunky chicken and vegetable spiced stew,Pumpkin pie",IBU Low Deep Amber ABV Low Atten Medium
+99,Hello My Name Is PaÌˆivi,70.0,Deep Amber,8.3,82.9,Sea Buckthorn Double IPA.,"Korvapuusti (cinnamon and cardamom buns),Spicy orange chicken marmalade served with potato bread,Sea buckthorn cheesecake",IBU High Deep Amber ABV Low Atten High
+100,Elvis Juice V2.0 - Prototype Challenge,60.0,Medium Amber,6.5,83.3,Citrus Infused IPA.,"Mexican ceviche,Coriander and lime green thai curry,Grapefruit souffle",IBU High Medium Amber ABV Low Atten High
+101,Riptide,45.0,Black,8.0,81.3,Twisted Merciless Stout.,"Seared scallops,Pan seared venison with fruit salad side,Caramelised apple pie with vanilla ice cream",IBU High Black ABV Low Atten Medium
+102,Peach Therapy,30.0,Deep Gold,9.0,87.0,Tart Belgian Tripple.,"Summer salad with pickled veg,Sticky barbecue spare ribs,Blueberry and almond tart",IBU Medium Deep Gold ABV Medium Atten High
+103,Clown King,85.0,Medium Amber,12.0,102.3,US Style Barley Wine.,"Aged Stilton,Flaky pastry beef pie and sweet potato mash,Chocolate pecan praline cake",IBU High Medium Amber ABV Medium Atten High
+104,India Pale Weizen (w/ Weihenstephan),50.0,Amber Brown,6.2,85.0,BrewDog Versus Weihenstephan.,"Korean barbecue nachos,Beef pho soup,Waffles with caramelised apple and powdered sugar",IBU High Amber Brown ABV Low Atten High
+105,Hello My Name Is Beastie,42.0,Black,8.2,83.3,Double IPA Brewed with Brambles.,"Honey glazed ham with pineapple,Spicy wings with blue cheese sauce,Blackberry pie with vanilla ice cream",IBU High Black ABV Low Atten High
+106,Punk IPA 2010 - Current,40.0,Deep Gold,5.6,78.0,Post Modern Classic. Spiky. Tropical. Hoppy.,"Spicy carne asada with a pico de gallo sauce,Shredded chicken tacos with a mango chilli lime salsa,Cheesecake with a passion fruit swirl sauce",IBU High Deep Gold ABV Low Atten Medium
+107,HBC 366 - IPA Is Dead,70.0,Deep Amber,7.2,82.1,Single Hop India Pale Ale.,"Spicy black bean and chicken tortilla soup,Spicy lamb tikka masala,Fruity bread pudding",IBU High Deep Amber ABV Low Atten High
+108,American Ale,55.0,Deep Amber,6.3,80.0,Unleash the Yeast Series.,"Fried brie bites,American cheese burger,Poached apple tart",IBU High Deep Amber ABV Low Atten Medium
+109,Cocoa Psycho,85.0,Deep Amber,10.0,70.0,Russian Imperial Stout. Rich. Decadent. Mocha.,"Smokey sweet pulled brisket,Espresso crusted venison with a dark cherry jus,Affogato with vanilla ice cream",IBU High Deep Amber ABV Medium Atten Medium
+110,Truffle and Chocolate Stout - B-Sides,30.0,Ruby Brown,5.6,74.0,Gastronomic Session Stout.,"Mushroom pithivier,Roast pheasant with savoy cabbage,Dark chocolate ganache macaroons",IBU Medium Ruby Brown ABV Low Atten Medium
+111,Vagabond Pilsner,55.0,Medium Amber,4.5,73.9,Hoppy Pilsner.,"Jamaican jerk chicken,Hot dog with grilled onions and spicy ketchup,Shortbread and raspberry jam thumbprint cookie",IBU High Medium Amber ABV Low Atten Medium
+112,Vote Sepp,20.0,Pale Gold,3.6,75.0,Witbier With Hibiscus.,"Crab roll sushi with strawberries,Artichoke hearts and chicken melt,Caprese salad (mozzarella, tomato, basil, black pepper and sea salt)",IBU Low Pale Gold ABV Low Atten Medium
+113,Hello My Name Is Ingrid,42.0,Deep Brown,8.2,83.3,Sophisticated Bergmanesque Beer.,"Crayfish with a chilli, coriander infused butter dip,Smörgås with cream topping,Cardamom cake with powder sugar and cloudberry jam",IBU High Deep Brown ABV Low Atten High
+114,U-Boat (w/ Victory Brewing),50.0,Black,8.4,81.3,Smoked Porter Collab With Victory Brewing.,"Smoked bratwurst and mustard,Chargrilled steak,Grilled pineapple",IBU High Black ABV Low Atten Medium
+115,Melon And Cucumber IPA - B-Sides,50.0,Pale Gold,6.0,87.0,Fresh Melon IPA.,"Beef carpaccio,Chilled beetroot soup,Korean watermelon salad",IBU High Pale Gold ABV Low Atten High
+116,Morag's Mojito - B-Sides,40.0,Deep Gold,6.7,84.0,Cocktail Meets Beer.,"Tamale,Salt cod croquettes,Mint cheesecake",IBU High Deep Gold ABV Low Atten High
+117,Hop Rocker,40.0,Medium Amber,5.5,80.7,Hoppy Aggressive Lager,"Cajun spiced chicken wings,Mild cheddar,Lemon tart",IBU High Medium Amber ABV Low Atten Medium
+118,Bounty Hunter - Shareholder Brew,35.0,Black,6.5,70.6,Beatnik Milk Stout.,"Coconut beef red curry,Butternut squash soup with toasted almonds,Chocolate coated macaroons",IBU Medium Black ABV Low Atten Medium
+119,Zeitgeist,32.0,Black,4.9,79.0,Organic Black Lager.,"Spicy cajun fried chicken,Pork dumplings with rich soy sauce,Cinnamon carrot cake with creamy cheese frosting",IBU Medium Black ABV Low Atten Medium
+120,AB:10,80.0,Black,11.5,79.2,Imperial Brown Ale Aged In Spanish Red Wine Barrels.,"Calves' liver with onion relish,Coq au vin,S'mores",IBU High Black ABV Medium Atten Medium
+121,Punk Monk,60.0,Pale Amber,6.0,82.1,Who Ordered The Belgian Yeast?,"Moules frites,Thai green curry,Lemon posset",IBU High Pale Amber ABV Low Atten High
+122,Dog Fight (w/ Flying Dog),65.0,Deep Amber,8.5,84.6,Rye IPA - Flying Dog Collab.,"Black bean and avocado enchiladas with mole sauce,Mexican spiced cheddar cheese,Pancakes with maple syrup",IBU High Deep Amber ABV Low Atten High
+123,Candy Kaiser,45.0,Brown,5.2,81.6,NorDdeutsches Retro Altbier.,"Aged gouda,German bratwurst sausage,Poached pear fritters",IBU High Brown ABV Low Atten Medium
+124,Chaos Theory,90.0,Deep Gold,7.1,80.6,Predictably Random IPA.,"Spicy mexican meatball stew,Habenero and mango pulled pork tacos,Spiced pumpkin pie with chocolate whipped cream",IBU High Deep Gold ABV Low Atten Medium
+125,Juniper Wheat Beer,40.0,Deep Gold,5.0,83.0,American Style Wheat Ale With Juniper Berries.,"Herring rollmops,Chicken schnitzel,Gin & elderflower jelly",IBU High Deep Gold ABV Low Atten High
+126,Jet Black Heart,45.0,Black,4.7,70.0,Oatmeal Milk Stout. Dark. Roasty. Velvety.,"Oyster beignets,Beef shin stew,A Shakin' jesse",IBU High Black ABV Low Atten Medium
+127,Galaxy,67.0,Pale Amber,6.7,79.7,Single Hop India Pale Ale â€“ 2012.,"Spicy green chilli and lemongrass chicken thai curry,Sharp cheddar cheese and crackers,Ginger and orange zest cookies",IBU High Pale Amber ABV Low Atten Medium
+128,White Noise,50.0,Deep Amber,6.8,80.0,White IPA with Motueka.,"Huevos rancheros,Mild coriander and chilli chicken curry,Panna cotta with an orange and raspberry sauce",IBU High Deep Amber ABV Low Atten Medium
+129,Hinterland,85.0,Black,9.0,73.4,A Most Beguiling Brew.,"Mulled cheddar buffalo burger,Venison with warm spices (cardamom) and sweet potato,Pure vanilla bean ice cream",IBU High Black ABV Medium Atten Medium
+130,Spiced Cherry Sour - B-Sides,20.0,Ruby Brown,6.5,87.0,Alternative Festive.,"Wild rice salad with wild mushrooms,Apple gingerbread pancakes,Christmas Pudding",IBU Low Ruby Brown ABV Low Atten High
+131,Motueka,67.0,Pale Amber,6.7,79.7,Single Hop India Pale Ale â€“ 2012.,"Tofu pad Thai with fresh lime juice and coriander,Fish tacos with avocado,Key lime pie",IBU High Pale Amber ABV Low Atten Medium
+132,5am Saint,30.0,Ruby Brown,5.0,76.0,Bittersweet Chaos. Malty. Fruity. Bite.,"Cheddar cheese melt on crisp rye toast,Moroccan chicken tangine,Cheesecake topped with kiwi",IBU Medium Ruby Brown ABV Low Atten Medium
+133,Black Eye Joe (w/ Stone Brewing Co),40.0,Black,5.8,84.9,Coffe Black IPA.,"Spicy carne asada with black beans and Mexican Rice,Pork smothered in mole sauce,Chocolate covered espresso beans",IBU High Black ABV Low Atten High
+134,Mr.Miyagi's Wasabi Stout,90.0,Black,7.5,79.2,Spicy Stout Brewed By Aberdeen Bar Staff.,"California sushi rolls with fresh crab and wasabi infused soy sauce,Spicy chilli and coriander Thai beef stew,Carrot and coriander rich cake",IBU High Black ABV Low Atten Medium
+135,Growler,38.0,Pale Amber,4.5,81.0,Citra Hopped Pilsner,"Havarti cheese,Cajun spiced fried chicken,Lemon squares",IBU Medium Pale Amber ABV Low Atten Medium
+136,#Mashtag 2014,50.0,Medium Amber,9.0,82.1,Democratic Imperial Red Ale.,"Beetroot and blood orange salad,Coriander and mango grilled steak tacos,Orange sherbet ice cream",IBU High Medium Amber ABV Medium Atten High
+137,Sink The Bismarck!,1085.0,Brown,41.0,81.2,IPA For The Dedicated.,"Charred apricot salad,Whole baked reblochon,Salted caramel crème brûlée",IBU High Brown ABV High Atten Medium
+138,Dog A,90.0,Black,15.0,98.0,"Cacao, Coffee, Chili Imperial Anniversary Stout.","Blackened cajun beef,Cave-aged cheddar,Flourless chocolate chilli cake",IBU High Black ABV Medium Atten High
+139,Born To Die,85.0,Deep Gold,8.5,90.3,Terminally Hoppy India Pale Ale.,"Caramelised onion and lightly seared steak,Pulled barbecue brisket,Salted caramel cheesecake",IBU High Deep Gold ABV Low Atten High
+140,Pioneer - IPA Is Dead,100.0,Deep Gold,7.2,84.0,Single Hop India Pale Ale.,"Fried teriyaki chicken,Chicken jalfrezi,Chocolate and toffee fondant",IBU High Deep Gold ABV Low Atten High
+141,Cap Dog (w/ Cap Brewery),80.0,Black,9.0,83.1,Black Cascara IPA.,"Chilli con carne,Pepper jack cheese burger on a brioche bun,Coffee cake",IBU High Black ABV Medium Atten High
+142,Orange Blossom - B-Sides,20.0,Straw,3.8,87.0,Citrus Wheat Braggot.,"Soy and honey glazed mackerel,Moroccan spice lamb shanks,Baklava",IBU Low Straw ABV Low Atten High
+143,Lizard Bride - Prototype Challenge,35.0,Medium Amber,5.7,79.3,Fruit Infused Sour IPA.,"Roasted pumpkin and mozzarella,Black forrest gateaux",IBU Medium Medium Amber ABV Low Atten Medium
+144,Tokyo*,85.0,Black,16.2,82.2,Intergalactic Stout. Rich. Smoky. Fruity.,"Herbal roast beef with a cranberry jus,Baked honey glazed ham with dark fruit sauce,Dark fruit cake",IBU High Black ABV High Atten High
+145,Sorachi Bitter - B-Sides,130.0,Deep Gold,6.3,83.0,Sorachi Ace Bitter.,"Greek piroshki pies,Poached salmon with salsa verde,Strawberry filo tarts",IBU High Deep Gold ABV Low Atten High
+146,Nelson Sauvin,75.0,Deep Amber,7.5,82.1,Single Hop IPA Series â€“ 2011.,"Grilled halloumi salad with orange and pomegranate vinaigrette,Baked Camembert with smoked garlic, and salt and pepper wheat crackers,Crab cakes with lemon cream and herb dipping sauce",IBU High Deep Amber ABV Low Atten High
+147,Hello My Name Is Little Ingrid,35.0,Deep Amber,4.4,73.3,Cloudberry Session IPA.,"Scones with cloudberry jam,Oysters with a chilli and dill sauce,Rhubarb tart",IBU Medium Deep Amber ABV Low Atten Medium
+148,AB:02,70.0,Ruby Brown,18.0,93.3,Triple Dry Hopped Imperial Red Ale.,"Strong gorgonzola endive salad,Sirloin steak with fresh salad,Cinnamon poached pears",IBU High Ruby Brown ABV High Atten High
+149,AB:03,14.0,Ruby Brown,10.5,80.0,Barrel-Aged Imperial Ale.,"Haggis spring rolls,Honey glazed duck breast,Cranachan",IBU Low Ruby Brown ABV Medium Atten Medium
+150,AB:13,50.0,Black,11.3,79.6,Cask-Aged Cherry Imperial Stout.,"Pheasant paté,Roast duck in a cherry glaze,Chocolate torte with a dark fruit compote",IBU High Black ABV Medium Atten Medium
+151,Rhubarb Saison - B-Sides,25.0,Pale Gold,6.4,87.0,Spiced Rhubarb Saison.,"Lamb cutlets with cucumber raita,Pigeon pea dal,Set vanilla custard",IBU Medium Pale Gold ABV Low Atten High
+152,Deaf Mermaid - B-Sides,65.0,Pale Amber,5.2,79.0,Light Pale Ale.,"Grilled fish tacos,Greek salad,Goat's cheese",IBU High Pale Amber ABV Low Atten Medium
+153,Hoppy Saison - B-Sides,40.0,Pale Gold,6.4,87.0,Hop Yeast Synergy.,"Pad Thai,Paella,Smoked dry-cured venison sausage",IBU High Pale Gold ABV Low Atten High
+154,No Label,25.0,Pale Gold,4.5,79.1,Dry Hopped KoÌˆlsch.,"Strawberry and basil salad with feta,Lemon baked monkfish,Peach cobbler",IBU Medium Pale Gold ABV Low Atten Medium
+155,Old World Russian Imperial Stout,80.0,Black,9.5,81.3,Russian Imperial Stout.,"Seared steak with a peppercorn sauce,Strong blue cheese and oatcakes,Chocolate cheesecake",IBU High Black ABV Medium Atten Medium
+156,Hoppy Christmas,70.0,Deep Amber,7.2,82.1,Simcoe Single-Hop India Pale Ale.,"Spiced cranberry turkey,Sriracha covered brussel sprouts,Ginger rice pudding",IBU High Deep Amber ABV Low Atten High
+157,Edge,36.0,Ruby Brown,2.7,70.8,Dark Full-Bodied Cask Ale,"Lamb and root vegetable stew,Warm goats cheese salad,Raisin rum cake",IBU Medium Ruby Brown ABV Low Atten Medium
+158,Hello My Name Is ZeÌ� (w/ 2CabecÌ§as),50.0,Medium Amber,6.4,80.3,Passionfruit IPA - 2Cabecas Collab.,"Grilled lamb chops with a fruit reduction,Ginger and chilli beef stir fry,Passionfruit soufflé",IBU High Medium Amber ABV Low Atten Medium
+159,Black Tokyo Horizon (w/NÃ¸gne Ã˜ & Mikkeller),75.0,Black,17.2,80.8,Imperial Stout Collaboration.,"Truffle oil filet mignon,Sweet sticky beef brisket,Chocolate and dark cherry fondant",IBU High Black ABV High Atten Medium
+160,Restorative Beverage For Invalids And Convalescents,100.0,Deep Gold,8.5,95.6,"An Extract Taken From ""A Treatise on Food and Diet"" By Dr Jonathan Pereira, 1843.","Habanero spicy chicken wings with ranch sauce,Jalapeño chilli and chicken quesadillas,New York style cheesecake",IBU High Deep Gold ABV Low Atten High
+161,Tokyo Rising Sun - Highland,85.0,Black,13.2,82.17,A Beautiful Accident.,"Chorizo cooked in red wine,Rib eye steak with a compound butter,Baked Alaska",IBU High Black ABV Medium Atten High
+162,77 Lager,30.0,Deep Gold,4.9,80.7,Artisan Rebel Pilsner.,"Aromatic spicy red thai curry,Sticky spicy barbecue ribs with a strong blue cheese dipping sauce,Creamy warm baked goats cheese salad",IBU Medium Deep Gold ABV Low Atten Medium
+163,This. Is. Lager,37.0,Deep Gold,4.7,83.7,21st Century Pilsner. Sharp. Robust. Honest.,"Mexican ceviche,Blue cheese crumbled over wedges,Gooey lemon bar",IBU Medium Deep Gold ABV Low Atten High
+164,Ella - IPA Is Dead,100.0,Deep Gold,7.2,84.0,Single Hop India Pale Ale.,"Cheddar cheese toastie on dark rye,Lamb samosas with chilli dipping sauce,Cheesecake",IBU High Deep Gold ABV Low Atten High
+165,Barley Wine - Russian Doll,80.0,Ruby Brown,10.0,79.4,Double India Pale Ale.,"Stilton tart,Caramelised onion and ham foccacia,Dark fruit crumble",IBU High Ruby Brown ABV Medium Atten Medium
+166,Vagabond Pale ALe - Prototype Challenge,55.0,Medium Amber,4.5,73.9,Gluten Free Beer. Toffee. Piney. Fruitcake.,"Chinese chicken salad,Lemon grilled halibut,Apple crumble",IBU High Medium Amber ABV Low Atten Medium
+167,Libertine Black Ale,50.0,Black,7.2,78.6,The New Black. Roasty. Hoppy. Fruity.,"Grilled king prawns with a chilli lime sauce,Blue cheese burger,Flourless chocolate ginger cake",IBU High Black ABV Low Atten Medium
+168,Jack Hammer,250.0,Deep Gold,7.2,84.6,Ruthless India Pale Ale. Hoppy. Bitter. Hoppy.,"Phall Curry,Pork burrito with a habanero and mango chilli salsa,Ginger and grapefruit poundcake",IBU High Deep Gold ABV Low Atten High
+169,AB:19,65.24375,Ruby Brown,13.1,80.59101851851848,A Blend of Two Barrel-aged Imperial Saisons.,"Game terrine,Spiced fruit cake,Chocolate, cherry and hazelnut mousse",IBU High Ruby Brown ABV Medium Atten Medium
+170,Bashah (w/ Stone Brewing Co),100.0,Deep Amber,9.7,83.0,Black Belgian Double IPA.,"Chocolate crème brûlée with raspberries,Thyme, rosemary and black pepper rubbed roast beef served with fried green beans,Angus beef cheeseburger",IBU High Deep Amber ABV Medium Atten High
+171,Challenger,67.0,Pale Amber,6.7,79.7,Single Hop India Pale Ale â€“ 2012.,"Caramelized onion and steak pie,Chicken Khua Kling (dry Thai curry),Lemon drizzle cake",IBU High Pale Amber ABV Low Atten Medium
+172,Single Hop Enigma IPA - B-Sides,50.0,Pale Gold,5.0,78.0,Enigma Hopped IPA.,"Jalapeño poppers with blue cheese dip,T-bone steak with fried onions,Carrot cake with cream cheese frosting",IBU High Pale Gold ABV Low Atten Medium
+173,Chinook - IPA Is Dead,100.0,Deep Gold,7.2,84.0,Single Hop India Pale Ale.,"Chicken fajita spiced monteray jack quesadillas,Chilli lime and coriander marinated king prawn cocktail,Margarita key lime pie",IBU High Deep Gold ABV Low Atten High
+174,Konnichiwa Kitsune,70.0,Deep Amber,4.4,82.9,Hello My Name Is Yuzu.,"Fresh seared tuna and rocket salad,Lemon meringue pie,Baked chicken with yuzu reduction",IBU High Deep Amber ABV Low Atten High
+175,San Diego Scotch Ale (w/Ballast Point),70.0,Black,9.0,80.0,Imperial Scotch Ale With Rum & Raisin.,"Venison stroganoff,Chilli dog,Toffee chocolate cheesecake",IBU High Black ABV Medium Atten Medium
+176,Old World India Pale Ale,80.0,Ruby Brown,7.5,82.6,English India Pale Ale.,"Honey glazed ham with spicy roasted carrots,Mature cheddar with spicy chutney,Peach cobbler",IBU High Ruby Brown ABV Low Atten High
+177,Dog D,85.0,Black,16.1,84.0,Anniversary Imperial Stout.,"Sriracha infused shredded beef,Chipotle steak tacos,Chilli chocolate fondant",IBU High Black ABV High Atten High
+178,Simcoe,70.0,Deep Amber,6.7,81.0,Single Hop India Pale Ale.,"Beer roasted chicken,Ham and pineapple pizza,Chocolate cake drizzled with orange",IBU High Deep Amber ABV Low Atten Medium
+179,How To Disappear Completely,198.0,Amber Brown,3.5,73.0,Fake Fix Double IPA.,"Spicy pork sausages with red potato mash,Turnip beef stew with crusty fresh baked bread,Summer berry cheesecake",IBU High Amber Brown ABV Low Atten Medium
+180,Doodlebug,35.0,Pale Gold,2.5,70.4,Hoppy Sub-Session Pale Ale.,"Lightly curried spiced chickpea dip,Fried calamari with a mild sauce,Lemon sherbet cookies",IBU Medium Pale Gold ABV Low Atten Medium
+181,Vic Secret,70.0,Deep Amber,7.4,82.6,Single Hop India Pale Ale.,"Roasted duck,Gorgonzola and rye nut bread with smoked honey ham,Raspberry coffee cheesecake",IBU High Deep Amber ABV Low Atten High
+182,All Day Long - Prototype Challenge,30.0,Brown,2.8,63.1,Malty Low ABV Ale.,"Chunky orange marmalade on toast,Prawn toast with sweet chilli sauce,Lemon tart",IBU Medium Brown ABV Low Atten Low
+183,Nuns With Guns,25.0,Pale Amber,4.2,72.7,Dry-Hopped Lager.,"Falafel and hummus pitta wrap,Bratwurst with spicy relish,Strawberry tart",IBU Medium Pale Amber ABV Low Atten Medium
+184,Atlantic IPA Ale,80.0,Deep Amber,8.0,82.0,IPA Of Yesteryear.,"Smoked venison sausage,Very mature Cheddar,Fettucine alfredo",IBU High Deep Amber ABV Low Atten High
+185,Tactical Nuclear Penguin,1157.0,Black,32.0,82.2,Uber Imperial Stout.,"Lobster thermidor,Pan fried Foie Gras,Vanilla bean white chocolate",IBU High Black ABV High Atten High
+186,Jasmine IPA,40.0,Amber Brown,5.8,76.7,Floral & Fruity India Pale Ale.,"Chicken satay,Thai fishcakes,Honey and almond sponge cake",IBU High Amber Brown ABV Low Atten Medium
+187,Lichtenstein Pale Ale,50.0,Pale Amber,5.2,80.0,Us-Hopped Rye Pale Ale.,"Spicy fish tacos,Bacon mac 'n' cheese,Pear crumble",IBU High Pale Amber ABV Low Atten Medium
+188,Paradox Jura,55.0,Black,10.0,89.0,Ubiquitous Imperial Stout.,"Smoked cured beef,Smoked aubergine tapenade with rye bread,Beer affogato - 1/3 glass of Paradox with a scoop of vanilla ice cream",IBU High Black ABV Medium Atten High
+189,AB:11,70.0,Black,12.8,81.5,"Black Barley Wine With Ginger, Raspberries, Chipotle Peppers.","Steak taquitos with spicy mole sauce,Herb roasted duck with a fruit sauce,Dark chocolate and chilli flourless cake",IBU High Black ABV Medium Atten Medium
+190,Hello My Name is Sonja (w/ Evil Twin),70.0,Deep Amber,8.3,82.9,Blueberry Double IPA.,"Lamb chops with a blueberry reduction,Cured ham and strong mulled cheddar board,Warm blueberry pie",IBU High Deep Amber ABV Low Atten High
+191,Interstellar,55.0,Ruby Brown,6.5,81.4,2013 Prototype Red Rye IPA.,"Oak chip smoked salmon,Sticky spicy barbecue ribs,Scottish tablet",IBU High Ruby Brown ABV Low Atten Medium
+192,Punk IPA 2007 - 2010,60.0,Pale Amber,6.0,82.14,Post Modern Classic. Spiky. Tropical. Hoppy.,"Spicy carne asada with a pico de gallo sauce,Shredded chicken tacos with a mango chilli lime salsa,Cheesecake with a passion fruit swirl sauce",IBU High Pale Amber ABV Low Atten High
+193,Blitz Berliner Weisse,8.0,Pale Gold,3.0,82.5,Berliner Fruit Beer.,"Grilled salmon with a light lemon sauce,Lobster bisque,Cheesecake with raspberry (or peach/passion fruit) sauce",IBU Low Pale Gold ABV Low Atten High
+194,Hardkogt IPA,175.0,Brown,7.6,80.6,A Special Double IPA For Our Danish Friends.,"Thick cut salami pieces on tiger bread,Chilli spiced pork pie,Poached pear and blue cheese crumble",IBU High Brown ABV Low Atten Medium
+195,Hello My Name Is Holy Moose,35.0,Medium Amber,5.5,79.3,Nordic Berry IPA.,"Warms goats cheese salad,Trifle or chocolate cake",IBU Medium Medium Amber ABV Low Atten Medium
+196,Catherine's Pony (w/ Beavertown),40.0,Black,8.8,79.8,Imperial Smoked Porter â€“ Beavertown Collab.,"Flame grilled steak,Venison and Winter vegetable stew,Maple bacon chocolate cupcakes",IBU High Black ABV Low Atten Medium
+197,Moshi Moshi 15,45.0,Amber Brown,5.2,77.1,American Pale Ale Birthday Beer.,"Spicy Vietnamese vermicelli salad,Spicy fish tacos with mango chilli,Banana bread",IBU High Amber Brown ABV Low Atten Medium
+198,AB:01,20.0,Pale Amber,10.2,8.1,Vanilla Bean Infused Belgian Quad.,"Baked brown butter lobster,Apple crumble and custard,Coffee carrot cake",IBU Low Pale Amber ABV Medium Atten Low
+199,Alice Porter,55.0,Black,5.2,75.5,Enigmatic Dark Alchemy.,"Applewood cheddar bacon beef burger,Roasted garlic camembert,Parmesan truffles",IBU High Black ABV Low Atten Medium
+200,Double IPA - Russian Doll,85.0,Amber Brown,8.0,82.4,Nesting Hop Bomb.,"Strong cheddar fondue,Pork chops with spicy orange marmalade,Rich crème brûlée",IBU High Amber Brown ABV Low Atten High
+201,Waimea - IPA Is Dead,70.0,Deep Amber,6.7,77.3,Single Hop India Pale Ale.,"Hot spiced barbecue chicken wings,Orange sesame chicken,Chocolate fondue with fruit",IBU High Deep Amber ABV Low Atten Medium
+202,Dog C,90.0,Black,15.0,98.0,"Cacao, Coffee Chili Anniversary Stout.","Blackened cajun beef,Blue cheese,Flourless chocolate cheesecake",IBU High Black ABV Medium Atten High
+203,Bitch Please (w/ 3 Floyds),50.0,Amber Brown,11.5,85.0,Barley Wine - 3 Floyds Collab.,"Stilton Blue featured cheese platter,Dark bitter chocolate torte,Scotch bonnet beef chilli",IBU High Amber Brown ABV Medium Atten High
+204,"Cascade, Centennial & Willamette IPA - B-Sides",65.0,Deep Gold,6.4,82.0,Pilot Kit IPA.,"Cauliflower pakora with mango chutney,Penne with tomato and smoked cheese,Salted caramel ice cream and peanuts",IBU High Deep Gold ABV Low Atten High
+205,Shareholder Black IPA 2011,80.0,Deep Brown,7.1,79.0,Shareholder Black IPA.,"Classic American cheeseburger,Chilli chocolate bars",IBU High Deep Brown ABV Low Atten Medium
+206,Black Jacques,45.0,Deep Gold,11.1,94.4,Red Wine Barrel-Aged Imperial Black Saison.,"Cured Spanish ham,Steak pasty,Black cherry tart",IBU High Deep Gold ABV Medium Atten High
+207,International Arms Race (w/ Flying Dog),0.0,Ruby Brown,7.5,81.1,Zero IBU Herbal IPA.,"Rosemary and thyme grilled chicken,Light vegetable and herb soup with toasted rye bread,Earl Grey ice cream with a lavender sauce",IBU Low Ruby Brown ABV Low Atten Medium
+208,Sunshine On Rye - B-Sides,130.0,Deep Gold,7.2,87.0,Hoppy Rye IPA.,"Jerk spiced goat,Tonkotsu Ramen,Gingerbread",IBU High Deep Gold ABV Low Atten High
+209,Stereo Wolf Stout - Prototype Challenge,55.0,Black,5.2,73.1,Dark Audio Storm.,"Mississippi style pork ribs,Chunky mild spice beef stew,Chocolate chunky cookies",IBU High Black ABV Low Atten Medium
+210,Dead Metaphor,30.0,Black,6.8,76.5,Scottish Breakfast Stout.,"Brisket burnt ends,Candied bacon French toast,Coco Pops (add stout to cereal)",IBU Medium Black ABV Low Atten Medium
+211,Black Dog,60.0,Black,5.5,67.7,Hoppy Black Wheat Stout.,"Spicy chicken and chilli verde sauce enchiladas,Smoked chorizo and strong cheese board",IBU High Black ABV Low Atten Low
+212,Hop Fiction - Prototype Challenge,40.0,Deep Gold,5.2,79.2,US-Style Pale Ale.,"Jalapeño and cream cheese poppers,Asparagus pesto pasta,Bacon and maple syrup cupcakes",IBU High Deep Gold ABV Low Atten Medium
+213,El Dorado - IPA Is Dead,70.0,Deep Amber,6.7,77.3,Single Hop India Pale Ale.,"Watermelon and feta salad with balsamic reduction,Grilled chicken with a chilli soy sauce marinade,Crème brûlée with apricot coulis",IBU High Deep Amber ABV Low Atten Medium
+214,Cult Lager,50.0,Pale Amber,5.4,83.7,US & New Zeland Hopped Lager,"Arrabiata pasta with grilled prawns,Mexican spiced chicken with hot sauce,Orange marmalade thumb print cookie",IBU High Pale Amber ABV Low Atten High
+215,Brixton Porter,50.0,Black,5.0,73.6,Paradigm-Changing Porter.,"Grilled rib-eye steak,Baked curry chickpea snacks,Chocolate and walnut brownie",IBU High Black ABV Low Atten Medium
+216,Barrel Aged Hinterland,85.0,Black,9.0,73.4,A Most Beguiling Brew. Aged In Bourbon Casks.,"Mulled cheddar buffalo burger,Venison with warm spices (cardamom) and sweet potato,Pure vanilla bean ice cream",IBU High Black ABV Medium Atten Medium
+217,Barrel Aged Albino Squid Assassin,65.0,Ruby Brown,9.2,82.6,Red Rye IPA Aged In Rye Whisky Cask.,"Rocket and mozzarella salad with a cracked pepper dressing,Fried halibut with sweet potato fritters,Grapefruit and blood orange tart",IBU High Ruby Brown ABV Medium Atten High
+218,Monk Hammer,250.0,Deep Gold,7.2,84.6,Our Ruthless IPA With A Belgian Twist.,"Pesto chicken pizza,Beer braised Brussels sprouts,Crème brûlée",IBU High Deep Gold ABV Low Atten High
+219,Ship Wreck,60.0,Deep Amber,13.8,83.0,Redacted Collaboration Ale.,"Shrimp aguachile,Mezcal marinated sirloin steak,Basil panna cotta with strawberries",IBU High Deep Amber ABV Medium Atten High
+220,Ace Of Simcoe,40.0,Pale Amber,4.5,75.6,Single-Hopped Session IPA.,"Reuben sandwich,Halloumi and sweet chili burger,Passionfruit meringue pie",IBU High Pale Amber ABV Low Atten Medium
+221,Blitz Series,8.0,Straw,3.2,78.0,Fruit Infused Berlinerweisse.,"Cheese boards,Sashimi sushi,French fries dressed in good oil and salt,Mac and Cheese",IBU Low Straw ABV Low Atten Medium
+222,Dog E,100.0,Black,16.1,84.0,Ninth Anniversary Imperial Stout.,"Char sui pork buns,Spicy beef empanadas,Chocolate cheesecake",IBU High Black ABV High Atten High
+223,Prototype Pils 2.0,25.0,Pale Gold,4.7,75.6,Revamped German Pils.,"Tuna & salmon sushi (with plenty of wasabi!),Chipotle chicken burrito,Rhubarb fool with shortbread",IBU Medium Pale Gold ABV Low Atten Medium
+224,AB:20,20.0,Ruby Brown,14.2,75.6,Tiramisu Barley Wine.,"Cornish Yarg,Vanilla & raspberry panna cotta,Wild boar salami",IBU Low Ruby Brown ABV Medium Atten Medium
+225,Paradox Islay 2.0,100.0,Black,13.0,84.4,Islay Cask-Aged Imperial Stout.,"Smoked mackerel & radish salad,Ossobuco,Dark chocolate & salted caramel brownie",IBU High Black ABV Medium Atten High
+226,Chili Hammer,250.0,Deep Gold,7.2,84.6,Our Ruthless IPA With A Fiery Twist.,"Aubergine and chickpea tagine,Firehouse chili con carne,Vanilla milkshake",IBU High Deep Gold ABV Low Atten High
+227,Brewdog Vs Beavertown,50.0,Black,9.2,81.0,Coffee And Cigarettes.,"Ancho pulled beef chilli,Aged cheddar, chickpea & roasted vegetable tagine",IBU High Black ABV Medium Atten Medium
+228,Prototype Helles,18.0,Deep Gold,4.9,78.7,Laid-Back Bavarian Classic.,"Salt beef bagel with mustard & pickles,Pork belly ramen,Beetroot and goats cheese salad",IBU Low Deep Gold ABV Low Atten Medium
+229,Rye Hammer,250.0,Pale Amber,7.2,84.6,Our Ruthless IPA with A Spicy Twist.,"Smoked salmon tostada,Schäufele,Rye apple cake",IBU High Pale Amber ABV Low Atten High
+230,Black Hammer,250.0,Black,7.2,84.6,Our Ruthless IPA With A Dark Malt Twist.,"Buffalo wings with blue cheese dip,Spinach and feta tacos,Triple chocolate chip cookies",IBU High Black ABV Low Atten High
+231,Ace Of Chinook,40.0,Pale Amber,4.5,75.6,Single-Hopped Session IPA.,"Cheese covered tater tots,Chicago style hot dog,Beignet",IBU High Pale Amber ABV Low Atten Medium
+232,Ace Of Equinox,40.0,Pale Amber,4.5,75.6,Single-Hopped Session IPA.,"Chicken, mango and chili salad,Deep fried coconut prawns,Pineapple upside down cake",IBU High Pale Amber ABV Low Atten Medium
+233,Ace Of Citra,40.0,Pale Amber,4.5,75.6,Single-Hopped Session IPA.,"Courgette fries,Curried sea bass,Pistachio layer cake",IBU High Pale Amber ABV Low Atten Medium
+234,Neon Overlord,70.0,Medium Amber,7.6,82.0,Mango And Chilli IPA,"Baja fish tacos,Green mango salad,Salted butterscotch oatmeal cookies",IBU High Medium Amber ABV Low Atten High
+235,Mango And Chili Barley Wine,65.24375,Black,12.0,84.0,Spicy Chewy Sweet,"Vegetable Samosas,Thai Green Chicken Curry,Vanilla Panna Cotta",IBU High Black ABV Medium Atten High
+236,Science IPA,65.24375,Black,5.0,77.0,India Pale Ale,"Chicken Katsu,Cheese and Ham Omelette,Pumpkin Pie",IBU High Black ABV Low Atten Medium
+237,Honey And Lemon Blitz,65.24375,Pale Gold,3.2,75.0,Honey & Lemon Infused Berliner Weisse.,"Herb-Crusted Baked Cod,Berry and Cream Meringue,Lemon Drizzle Cake",IBU High Pale Gold ABV Low Atten Medium
+238,Kingpin,40.0,Deep Gold,4.7,79.0,21st century lager.,"Jamaican jerk chicken wings,Corn dogs,Strawberry ice cream sundae",IBU High Deep Gold ABV Low Atten Medium
+239,#Mashtag 2016,100.0,Pale Amber,10.5,89.04,Sour cherry triple IPA.,"Confit duck with cherry sauce,Cajun ribs,Buttermilk waffles",IBU High Pale Amber ABV Medium Atten High
+240,Blitz Saison,8.0,Deep Amber,3.2,77.0,Lemon & coriander Berliner Weisse,"Taleggio and Spinach Tart,Chicken Adobo,Crème Caramel",IBU Low Deep Amber ABV Low Atten Medium
+241,Hello My Name Is Ingrid 2016,70.0,Deep Amber,8.2,83.3,Cloudberry Double IPA,"Tempura Prawns,Soy-Glazed Chicken Thighs,Raspberry Soufflé",IBU High Deep Amber ABV Low Atten High
+242,Crew Brew,100.0,Deep Amber,8.0,84.62,Democratic Amber Ale,"Panko-coated Chicken Katsu,Classic Cheddar Ploughmans,Pecan Pie",IBU High Deep Amber ABV Low Atten High
+243,Gin Blitz,8.0,Pale Gold,3.2,75.0,Botanical Berliner Weisse,"Game Terrine with Pickles,Fish Tacos,Peach Melba",IBU Low Pale Gold ABV Low Atten Medium
+244,AB:21,100.0,Black,12.0,82.0,Liquorice Blackcurrant Stout.,"Steak Pie and Winter Vegetables,Chocolate Torte,Blackcurrant Panna Cotta",IBU High Black ABV Medium Atten High
+245,Beatnik,60.0,Ruby Brown,8.0,83.78,Imperial Red Ale,"Loaded Hamburger and Spicy Fries,Warm Banana Bread,Pineapple Sponge Cake",IBU High Ruby Brown ABV Low Atten High
+246,Casino Rye Ale,40.0,Medium Amber,5.1,81.6,Life's a Gamble,"Crab Cakes,Spicy Bean Burrito,Dundee Fruit Cake",IBU High Medium Amber ABV Low Atten Medium
+247,Self Assembly Pope,75.0,Black,7.4,82.0,Coconut Vanilla Porter,"Beef Rendang,Coconut Macaroons,Profiteroles with Chantilly Cream",IBU High Black ABV Low Atten High
+248,Twin Atlantic,80.0,Pale Amber,5.0,77.0,Mango & Pineapple Pale,"Jerk Chicken Kebabs with Mango Salsa,Avocado and Citrus Salad,Pineapple Upside Down Cake",IBU High Pale Amber ABV Low Atten Medium
+249,Hop Shot,250.0,Deep Gold,7.0,85.0,Quadruple India Pale Ale,"Phall Curry,Pork Burrito with a Habanero and Mango Chili Salsa,Ginger and Grapefruit Poundcake",IBU High Deep Gold ABV Low Atten High
+250,Small Batch: Rye IPA,100.0,Deep Amber,7.2,84.0,Rye India Pale Ale.,"Salmon Fishcakes with Rocket Salad,Baked Goat's Cheese,Classic Victoria Sponge",IBU High Deep Amber ABV Low Atten High
+251,Small Batch: Sorachi Ace Session,25.0,Deep Gold,4.0,79.0,Sorachi Ace Belgian Pale.,"Californian Sushi Roll,Parmesan and Rocket Pizza,Coconut Cake",IBU Medium Deep Gold ABV Low Atten Medium
+252,Small Batch: Dortmunder,32.0,Deep Gold,4.9,81.5,Pale Lager.,"Cajun Chicken Burger,Baked Brie,Tomato and Herb Bruschetta",IBU Medium Deep Gold ABV Low Atten Medium
+253,Small Batch: 90 Shilling,25.0,Brown,5.3,73.0,Honeyed Spicy Malt.,"Game Terrine,Barbecue-griddled Poussin,Clootie Dumpling",IBU Medium Brown ABV Low Atten Medium
+254,Small Batch: Kellerbier,25.0,Pale Amber,4.5,79.0,Crisp Unfiltered Goodness.,"Bratwurst and Mustard,Caraway Roast Pork,Gingerbread Cake",IBU Medium Pale Amber ABV Low Atten Medium
+255,Small Batch: Tripel,50.0,Medium Amber,13.0,93.0,Spiced Belgium Ale.,"Coriander & Chilli Crab Cakes,Basil Pasta,Caramelised Orange Cheesecake",IBU High Medium Amber ABV Medium Atten High
+256,Small Batch: Vermont IPA,35.0,Deep Gold,6.9,79.0,"Juicy, Tropical, Citrusy.","Chicken Korma,Lobster Tail Salad,Chickpea and Apricot Tagine",IBU Medium Deep Gold ABV Low Atten Medium
+257,Semi Skimmed Occultist,70.0,Black,8.0,73.0,Oatmeal Milk Stout.,"Pan-Seared Venison with Blackberries,Fig Tart,Dark Chocolate and Coffee Torte",IBU High Black ABV Low Atten Medium
+258,Paradox Rye,100.0,Black,13.0,84.0,Rye Whisky Barrel-Aged Imperial Stout.,"Char-grilled Lamb Cutlets,BBQ Brisket,Chocolate and Strawberry Mousse",IBU High Black ABV Medium Atten High
+259,Tropic Thunder,25.0,Black,7.0,73.0,Island-Hopping Stout.,"Steak and Kidney Pie,Pork Carnitas,Chocolate Orange Brownies",IBU Medium Black ABV Low Atten Medium
+260,New England IPA,45.0,Pale Amber,6.8,79.0,Vermont IPA,"Goat's Cheese Bruschetta,Pan-Fried Lemon Sole,Baked Peaches with Citrus Fruit Reduction",IBU High Pale Amber ABV Low Atten Medium
+261,Small Batch: Nitro Breakfast Stout,80.0,Black,8.0,70.0,Boozy Chocolate Milkshake.,"Habanero Pulled Pork,Choc Chip Cookies,,Black Pudding Croquettes",IBU High Black ABV Low Atten Medium
+262,Small Batch: Vermont IPA V2.0,35.0,Deep Gold,6.9,79.0,"Juicy, Citrusy, Tropical.","Chicken Korma,Lobster Salad,Chicken and Apricot Tagine",IBU Medium Deep Gold ABV Low Atten Medium
+263,Small Batch: Mandarina Lager,40.0,Pale Gold,5.3,84.0,Pithy Pale Pilsner.,"Green Thai Curry,Fish Tacos,Goat's Cheese Salad With Walnuts, Radish And Blood Orange",IBU High Pale Gold ABV Low Atten High
+264,Small Batch: East Coast Crush,25.0,Pale Amber,4.8,79.0,Session Vermont IPA.,"Chickpea and Apricot Tagine,Pan-fried Lemon Sole,Lobster Salad",IBU Medium Pale Amber ABV Low Atten Medium
+265,Pump Action Poet,40.0,Deep Gold,7.5,81.0,Stone Fruit IPA.,"Citrus Salad,Spicy Chilli Prawns,Orange Zest Tart",IBU High Deep Gold ABV Low Atten Medium
+266,Small Batch: Lemon Meringue Pie,5.0,Pale Gold,6.5,77.0,Experimental Dessert Beer.,Lemon Tart,IBU Low Pale Gold ABV Low Atten Medium
+267,AB:22,70.0,Black,12.5,83.0,Speyside Barrel-Aged Coffee Chocolate Stout.,"Roast Pheasant With Savoy Cabbage,Chilli Beer Tacos,Dark Chocolate Truffles",IBU High Black ABV Medium Atten High
+268,Hazy Jane,30.0,Pale Amber,7.2,86.0,New England IPA.,"Goat's Cheese Bruschetta,Pan-Fried Lemon Sole,Baked Peaches With Citrus Fruit",IBU Medium Pale Amber ABV Low Atten High
+269,Small Batch: Imperial Pale Weizen,25.0,Pale Amber,7.5,85.0,Dry-Hopped Wheat Beer.,"Soft pretzel with mustard,Hot Smoked Salmon Salad,Rum Fried Banana",IBU Medium Pale Amber ABV Low Atten High
+270,Blonde Export Stout,55.0,Pale Amber,7.0,73.0,Beatnik Brewing Collective 2017.,"Duck Crackling,Coq Au Vin,Oreo Cheesecake",IBU High Pale Amber ABV Low Atten Medium
+271,Small Batch: Cranachan Cream Ale,8.0,Pale Gold,6.5,72.0,Raspberry Cream Ale.,"Gingerbread Man,Feta And Tomato Salad With Balsamic Dressing,Raspberry Parfait",IBU Low Pale Gold ABV Low Atten Medium
+272,Small Batch: Spelt & Honey Saison,22.0,Pale Gold,5.2,83.0,Honey & Spelt Saison,"Pancakes,Honey Mustard Chicken,Crème Brûlée",IBU Low Pale Gold ABV Low Atten High
+273,Prototype Double IPA,60.0,Pale Amber,8.5,90.0,American Hop Overload.,"Hot Wings And Blue Cheese Dip,Black Pudding Burger,Sticky Toffee Pudding And Salted Caramel Ice Cream",IBU High Pale Amber ABV Low Atten High
+274,Prototype Black Rye IPA,70.0,Black,6.5,80.0,Complex Dark Ale,"Guacamole And Chips,Coriander Chicken Tostadas,Key Lime Pie",IBU High Black ABV Low Atten Medium
+275,Sidewalk Shark,22.0,Pale Gold,5.2,85.0,Citrus-Infused German Sour.,"Grilled Halibut,Pickled Herrings,Moules Frites",IBU Low Pale Gold ABV Low Atten High
+276,Nine To Five Wizard,35.0,Medium Amber,7.5,83.0,India Pale Weizen.,"Grilled Portobello Mushroom Burger,Citrus Salad With Balsamic Dressing,Ginger And Orange Cookies",IBU Medium Medium Amber ABV Low Atten High
+277,Prototype Blonde Ale,15.0,Deep Gold,4.5,80.0,Mellow Golden Ale.,"Salmon Salad,Montery Jack Cheese,Mandarin Cake",IBU Low Deep Gold ABV Low Atten Medium
+278,AB:23,80.0,Black,11.5,82.0,Bourbon Barrel-Aged Barley Wine.,"Stilton and Walnut Welsh Rarebit.,Cherry Chocolate Cake With Chocolate Whipped Mousse,Simnel Cake",IBU High Black ABV Medium Atten High
+279,Slot Machine,50.0,Ruby Brown,5.2,78.0,Red Rye IPA.,"Barbeque and Mustard Beef on Rye Bread,Gooseberry and Plum Compote,Mature Wensleydale",IBU High Ruby Brown ABV Low Atten Medium
+280,Make Earth Great Again,35.0,Pale Gold,7.5,94.0,Cloudberry Saison.,"Oysters With a Chilli And Dill Sauce,Raspberry Souffle",IBU Medium Pale Gold ABV Low Atten High
+281,Homicidal Puppet Help Desk,132.0,Brown,11.5,81.0,Barrel-Aged Rye Barley Wine.,"Stilton and Walnut Welsh Rarebit.,Cherry Chocolate Cake With Chocolate Whipped Mousse,Simnel Cake",IBU High Brown ABV Medium Atten Medium
+282,Pina Colada Sidewalk,10.0,Deep Gold,5.2,85.0,Pineapple & Coconut Gose.,"White Chocolate and Pistachio Cheesecake,Baked Tilapia With Lemon and Cream Sauce,Vegan Mac and ‘Cheese’",IBU Low Deep Gold ABV Low Atten High
+283,AB:24,50.0,Black,11.5,83.0,Coffee & Brown Sugar Baltic Porter.,"S’mores with smoked marshmallows,Braised rabbit stew,Espresso brownies with burnt sugar ice cream",IBU High Black ABV Medium Atten High
+284,Hello My Name Is Helga,70.0,Pale Amber,8.2,87.0,Cherry Double IPA.,"Roast pork chops,Beef in port stew,Cherry frangipane tart",IBU High Pale Amber ABV Low Atten High
+285,Hello My Name Is Sari,70.0,Pale Amber,8.2,87.0,Bilberry Double IPA.,"Steamed cod with ginger and spring onions,Blueberry muffins,Apple and blueberry pie",IBU High Pale Amber ABV Low Atten High
+286,Hello My Name Is Aune,70.0,Pale Amber,8.2,87.0,Stawberry Double IPA.,"Spinach and feta salad,Balsamic-glazed salmon,Basil granita",IBU High Pale Amber ABV Low Atten High
+287,Hello My Name Is Marianne,70.0,Pale Amber,8.2,87.0,Cassis Infused Double IPA.,"Smoked venison stew,Sloe gin mixer,Black forest gateau",IBU High Pale Amber ABV Low Atten High
+288,Hello My Name Is Agnetha,70.0,Pale Amber,8.2,87.0,Lingonberry Double IPA.,"Pork meatballs,Game pie,Grilled goat’s cheese",IBU High Pale Amber ABV Low Atten High
+289,Hello My Name Is Lieke,70.0,Pale Amber,8.2,87.0,Orange Infused Double IPA.,"Peking duck,Pork and coriander stew,Almond pound cake",IBU High Pale Amber ABV Low Atten High
+290,Hello My Name Is Niamh,70.0,Pale Amber,8.2,87.0,Elderflower Infused Double IPA.,"Grilled sea bass fillet,Sushi maki,Summer fruit pudding",IBU High Pale Amber ABV Low Atten High
+291,Hello My Name Is Sofia,70.0,Pale Amber,8.2,87.0,Lemon Infused Double IPA.,"Deep-fried calamari,Paneer skewers with cardamom,Plum cobbler",IBU High Pale Amber ABV Low Atten High
+292,Hello My Name Is Maria,70.0,Pale Amber,8.2,87.0,Mandarin Infused Double IPA.,"Stir-fried chicken,Chocolate mousse,Orange polenta cake",IBU High Pale Amber ABV Low Atten High
+293,I Wanna Be Your Dog,55.0,Black,12.0,72.0,Omnipollo X BrewDog - Barrel Aged Imperial Stout.,"Pecan muffins with chocolate ganache,Salted caramels,Hazelnut truffles",IBU High Black ABV Medium Atten Medium
+294,Opaque Jake,20.0,Medium Amber,7.2,86.0,Vermont IPA.,"Steak,Chicken korma,Lobster salad",IBU Low Medium Amber ABV Low Atten High
+295,Choco Libre,25.0,Black,9.0,77.0,Mexican Hot Chocolate Imperial Stout.,"Habanero pulled pork,Gouda cheese,Dark chocolate and coffee torte",IBU Medium Black ABV Medium Atten Medium
+296,Off-Duty Alien,50.0,Medium Amber,6.5,83.0,Citrus IPA,"Roasted halibut with grapefruit salsa,Butternut squash bisque,+80% Dark chocolate",IBU High Medium Amber ABV Low Atten High
+297,East Of Vermont,15.0,Medium Amber,7.8,77.0,Mango & Peach Milkshake Vermont IPA.,"Thai sweet potato and carrot soup,Carrot cake,Peaches and cream",IBU Low Medium Amber ABV Low Atten Medium
+298,Declassified Demi-God,70.0,Black,14.1,84.0,Barrel-Aged Imperial Milk Stout.,"Mole Mexican chilli beef,BBQ pit beans,Chocolate ganache",IBU High Black ABV Medium Atten High
+299,Raspberry Popsicle Parade,8.0,Pale Gold,0.5,44.0,Raspberry Berliner Weisse.,"Walnut and goat's cheese salad with pomegranate dressing,Cranachan pudding,Panna cotta",IBU Low Pale Gold ABV Low Atten Low
+300,Indie Pale Ale,30.0,Pale Amber,4.2,82.0,True Independent Craft.,"Tempura seafood,Ham and cheese toastie,Lemon custard tart",IBU Medium Pale Amber ABV Low Atten High
+301,Small Batch: Dry-hopped Pilsner,37.0,Straw,4.7,86.0,Dry-hopped lager.,"Grilled salmon tacos,Chicken and pesto pasta,Ham and mustard crisps",IBU Medium Straw ABV Low Atten High
+302,Hazy Jane Bourbon Barrel Aged,30.0,Pale Amber,7.2,86.0,Bourbon Barrel Vermont IPA.,"Coconut vanilla prawns,Italian style goat's cheese pizza,Vanilla panna cotta with pomegranate",IBU Medium Pale Amber ABV Low Atten High
+303,Hazy Jane Rye Barrel Aged,30.0,Pale Amber,7.2,86.0,Bourbon Barrel Vermont IPA.,"Chickpea curry,Pork fajitas (with the works!),Orange and carrot cake with orange cream cheese icing",IBU Medium Pale Amber ABV Low Atten High
+304,Karma Cloud,50.0,Amber Brown,6.5,83.0,Tropical IPA.,"Roasted pork loin with tropical fruit,Nachos,Cheddar cheese board",IBU High Amber Brown ABV Low Atten High
+305,Native Son,70.0,Pale Amber,8.5,86.0,West Coast IPA.,"Gazpacho soup,Watercress rochfort and walnut salad,Thai red curry",IBU High Pale Amber ABV Low Atten High
+306,AB:25,35.0,Black,13.3,82.0,Bourbon Barrel-Aged Barley Wine.,"Coarse pork pate with fresh crusty bread,Pecan pie,Beef burger topped with red onions and wasabi",IBU Medium Black ABV Medium Atten High
+307,Kamikaze Knitting Club,30.0,Black,7.5,82.0,Maple Stout,"Maple jerky,Sweet glazed ribs,Pancakes with smokey bacon",IBU Medium Black ABV Low Atten High
+308,Very Big Moose,25.0,Black,12.0,70.0,Chocolate Imperial Stout.,"Rich vanilla ice cream. Neat (or make a float),Roast venison with a chocolate sauce,The biggest darkest chocolate cake you can find",IBU Medium Black ABV Medium Atten Medium
+309,Paradox Islay 2018,100.0,Black,13.5,84.0,Whisky Cask Aged Imperial Stout.,"PB&J sandwich,Roast beef with a herb and malt crust,Seriously sharp hard Cheddar",IBU High Black ABV Medium Atten High
+310,Clockwork Tangerine,37.0,Medium Amber,4.5,75.0,Citrus IPA.,"Lamb and mint tagine,Light and fluffy tangerine sponge cake,Fresh green salad with avocados and pomegranate seeds",IBU Medium Medium Amber ABV Low Atten Medium
+311,Sonic Boom,60.0,Deep Gold,6.5,86.0,New German Hop IPA.,"Spicy Thai peanut satay,Pizza with chili flakes,Lemon tart",IBU High Deep Gold ABV Low Atten High
+312,Dog G,100.0,Black,17.0,84.0,11th Anniversary Imperial Stout.,"Ginger and chocolate biscuits,Spicy chorizo and prawn Jambalaya,Jamaican Curry Goat",IBU High Black ABV High Atten High
+313,Mallow Mafia,75.0,Black,12.0,78.0,Russian Imperial Stout.,"Affogato with ice cream,Chocolate cake",IBU High Black ABV Medium Atten Medium
+314,Manic Mango,20.0,Deep Gold,6.0,82.0,Mango IPA.,"Green Thai curry,Salmon with mango salsa,Pho soup with light rice noodles",IBU Low Deep Gold ABV Low Atten High
+315,Baltic Fleet,45.0,Black,7.2,77.0,Baltic Porter.,"Chilli covered burgers,Roasted garlic Camembert,Chocolate and walnut brownies",IBU High Black ABV Low Atten Medium
+316,SOS! (May Day!),34.0,Medium Amber,6.4,77.0,Dry-Hopped Maibock.,"Honey ham sandwich Gruyère cheese,Steamed mussels,Carrot cake",IBU Medium Medium Amber ABV Low Atten Medium
+317,Al Adjore!,65.0,Amber Brown,9.0,79.0,Barley Wine,"Stilton and walnut salad,Toffee caramel cheesecake",IBU High Amber Brown ABV Medium Atten Medium
+318,Neverland,40.0,Deep Gold,5.0,85.0,India Pale Lager.,"Roast Chicken,Spicy jalapeño and seared steak fajitas,Peach cobbler",IBU High Deep Gold ABV Low Atten High
+319,Grano Giusto,28.0,Ruby Brown,5.5,83.0,Dark Lager.,"BBQ hot wings,Pomegranate tart with walnuts,Candied ginger pear cake",IBU Medium Ruby Brown ABV Low Atten High
+320,King of Eights,20.0,Medium Amber,7.4,86.0,East Coast IPA,"Grilled lemon sole,Fish tacos,Crème brûlée",IBU Low Medium Amber ABV Low Atten High
+321,Jinx Pale Ale,35.0,Deep Gold,4.7,81.0,American Pale Ale.,"Monterey Jack stuffed grilled jalapeños,Apple pie",IBU Medium Deep Gold ABV Low Atten Medium
+322,Jet Trash,65.0,Pale Amber,6.9,87.0,West Coast IPA.,"Roast chicken,Seared steak,Crusty bread",IBU High Pale Amber ABV Low Atten High
+323,Interstate Vienna Lager.,25.0,Deep Gold,5.0,84.0,Vienna Lager.,"Grilled chicken and steamed vegetables,Pork sausages,Almond biscotti",IBU Medium Deep Gold ABV Low Atten High
+324,Fools Gold Dortmunder Lager,32.0,Deep Gold,5.6,83.0,Lager.,"Seafood salad,Sweet and sour pork,Lemon drizzle cake",IBU Medium Deep Gold ABV Low Atten High
+325,Zipcode,37.0,Straw,5.0,86.0,Pilsner.,"Goat's cheese salad,Pesto pasta,Lemon cookies",IBU Medium Straw ABV Low Atten High
